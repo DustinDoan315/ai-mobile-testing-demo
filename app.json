@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Field Notes",
+    "slug": "ai-mobile-testing-demo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.dustinbuilds.aimobiletestingdemo"
+    },
+    "android": {
+      "predictiveBackGestureEnabled": false,
+      "package": "com.dustinbuilds.aimobiletestingdemo"
+    },
+    "scheme": "aimobiletesting"
+  }
+}
